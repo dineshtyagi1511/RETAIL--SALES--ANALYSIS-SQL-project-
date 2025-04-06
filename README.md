@@ -6,7 +6,7 @@
 
 The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries
 
-![](https://github.com/dineshtyagi1511/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/dineshtyagi1511/RETAIL--SALES--ANALYSIS-SQL-project-/blob/main/logo.png)
 ## **Objectives** -
      
    a- Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
